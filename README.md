@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐾 PetshopDev - Landing Page
 
-## Getting Started
+Bem-vindo à **PetshopDev**, uma landing page moderna, responsiva e animada, criada com foco em performance, visual elegante e experiência do usuário. Ideal para petshops que desejam presença online de destaque.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Tecnologias Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ⚡ **Next.js** – Framework React moderno e otimizado
+- 🎨 **Tailwind CSS** – Estilização rápida, responsiva e altamente customizável
+- 🎞️ **Animações suaves** com transições modernas e interação visual
+- 📱 **Responsivo** – Adapta-se perfeitamente a todos os tamanhos de tela
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎬 Prévia do Projeto
 
-## Learn More
+<div align="center">
+  <img src="gif1.gif" alt="Demonstração da Home" width="80%" />
+  <img src="gif2.gif" alt="Scroll animado com conteúdo de serviços" width="80%" />
+  <img src="gif3.gif" alt="Responsividade e design mobile" width="80%" />
+</div>
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Funcionalidades
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Página inicial com **banner animado**
+- Seção de **serviços**, **sobre** e **contato**
+- Animações em scroll e interações suaves
+- Design limpo e intuitivo para todos os públicos
+- Layout otimizado com **SEO básico** e carregamento rápido
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
