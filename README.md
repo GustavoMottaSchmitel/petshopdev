@@ -16,7 +16,7 @@ Bem-vindo à **PetshopDev**, uma landing page moderna, responsiva e animada, cri
 ## 🎬 Prévia do Projeto
 
 <div align="center">
-  <img src="gif1.gif" alt="Demonstração da Home" width="80%" />
+  <img src="./public/gif1.gif" alt="Demonstração da Home" width="80%" />
   <img src="gif2.gif" alt="Scroll animado com conteúdo de serviços" width="80%" />
   <img src="gif3.gif" alt="Responsividade e design mobile" width="80%" />
 </div>
